@@ -2,7 +2,6 @@
   "name": "hadan",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://codebygunjan.github.io/HADAN",
   "type": "module",
   "scripts": {
     "dev": "vite",
