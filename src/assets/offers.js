@@ -1,6 +1,6 @@
 import earlyBirdOffer from "./offersImg/earlyBirdOffer.png";
 import familyHoliday from "./offersImg/familyHoliday.png";
-import luxurylongStay from "./offersImg/luxurylongStay.png";
+import luxurylongStay from "./offersImg/luxuryLongStay.png";
 import romanticGetaway from "./offersImg/romanticGetaway.png";
 import summerEscape from "./offersImg/summerEscape.png";
 import weekendRetreat from "./offersImg/weekendRetreat.png";

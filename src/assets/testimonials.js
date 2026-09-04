@@ -1,5 +1,5 @@
 import aaravMehta from "./testimonialsImg/aaravMehta.png";
-import ananyaSharma from "./testimonialsImg/ananyaSharma.png";
+import ananyaSharma from "./testimonialsImg/AnanyaSharma.png";
 import meeraNair from "./testimonialsImg/meeraNair.png";
 import rohanKapoor from "./testimonialsImg/rohanKapoor.png";
 import ishitaVerma from "./testimonialsImg/ishitaVerma.png";
