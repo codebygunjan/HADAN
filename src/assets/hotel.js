@@ -4,8 +4,7 @@ import itcKohenur from "./hotels/itc-kohenur.png";
 import hyatt from "./hotels/hyatt.png";
 import leelaPalace from "./hotels/leela-palace.png";
 import oberoiAmarvilas from "./hotels/oberoi-amarvilas.png";
-import umaidBhavanPalace from "./hotels/umaidBhavanPalace.png";
-import tajMahalPalace from "./hotels/tajMahalPalace.png";
+
 import amarvilasbathroom from "./amarvilas/bathroom.png";
 import amarvilasbedroom from "./amarvilas/bedroom.png";
 import amarvilaspool from "./amarvilas/pool.png";
@@ -289,25 +288,4 @@ export const allHotelInfo = [
     ],
     reviews: 1050,
   },
-  // {
-  //   hotelId: 7,
-  //   hotelName: "Umaid Bhavan Palace",
-  //   hotelCity: "Jodhpur, India",
-  //   hotelImage: umaidBhavanPalace,
-  //   hotelPrice: 27000,
-  //   rating: 4.8,
-  //   reviews: 950,
-  //   amenities: ["free Wifi", "pool", "Restaurant"],
-  // },
-
-  // {
-  //   hotelId: 8,
-  //   hotelName: "Taj Mahal Palace",
-  //   hotelCity: "Mumbai, India",
-  //   hotelImage: tajMahalPalace,
-  //   hotelPrice: 22000,
-  //   rating: 4.8,
-  //   reviews: 1180,
-  //   amenities: ["free Wifi", "pool", "Restaurant"],
-  // },
 ];
